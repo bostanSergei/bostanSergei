@@ -1,5 +1,5 @@
-<h2 align="center">Hi there, I'm Segrey<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm beginning python developer</h3>
+<h3 align="center">Hi there, I'm Segrey - beginning python developer<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h3>
+
 
 <p>I'm 34 years old. In the near future I see myself as a backend developer and am actively working on it every day.
 Here is a list of languages and technologies I know:</p>
