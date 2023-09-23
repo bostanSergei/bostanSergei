@@ -1,5 +1,17 @@
-### Hi there 👋
+<h2 align="center">Hi there, I'm Segrey<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm beginning python developer</h3>
 
+<p>I'm 34 years old. In the near future I see myself as a backend developer and am actively working on it every day.
+Here is a list of languages and technologies I know:</p>
+<ul>
+    <li>Python</li>
+    <li>Django</li>
+    <li>Flask</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Git</li>
+</ul>
 <!--
 **bostanSergei/bostanSergei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
